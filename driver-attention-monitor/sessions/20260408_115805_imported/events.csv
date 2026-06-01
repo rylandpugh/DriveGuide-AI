@@ -1,0 +1,15 @@
+timestamp,event_type,severity,duration
+0.63,eye_closure,medium,1.63
+14.93,eye_closure,medium,1.53
+44.90,phone_detected,high,0.40
+45.40,phone_detected,high,3.00
+47.17,eye_closure,medium,1.93
+48.60,phone_detected,high,1.20
+49.90,phone_detected,high,0.80
+50.80,phone_detected,high,0.30
+51.20,phone_detected,high,0.30
+50.97,eye_closure,medium,1.90
+5.17,distracted_offroad,high,86.50
+98.47,distracted_offroad,high,9.70
+123.84,eye_closure,high,3.63
+110.94,distracted_offroad,high,34.54

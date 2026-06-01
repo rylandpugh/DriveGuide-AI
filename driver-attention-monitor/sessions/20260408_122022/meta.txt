@@ -1,0 +1,7 @@
+session_id=20260408_122022
+start_time=2026-04-08T12:20:27.501300
+end_time=2026-04-08T12:21:00.766517
+total_seconds=33.27
+total_frames=754
+resolution=640x480
+fps=30.0

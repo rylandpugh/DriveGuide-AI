@@ -1,0 +1,5 @@
+timestamp,event_type,severity,duration
+24.98,phone_detected,high,0.39
+25.50,phone_detected,high,2.47
+25.80,head_down,high,2.64
+25.80,distracted_offroad,high,4.24

@@ -1,0 +1,17 @@
+timestamp,event_type,severity,duration
+1.03,eye_closure,medium,0.35
+0.04,head_pose_deviation,high,5.02
+7.04,eye_closure,medium,0.30
+26.94,eye_closure,medium,0.35
+30.03,eye_closure,medium,0.52
+35.18,eye_closure,medium,0.34
+5.36,head_pose_deviation,high,43.32
+48.72,eye_closure,medium,0.42
+48.72,head_pose_deviation,medium,1.90
+51.87,head_pose_deviation,medium,1.38
+57.58,eye_closure,medium,0.91
+53.95,head_pose_deviation,high,8.82
+63.64,eye_closure,high,2.03
+66.62,phone_detected,high,1.56
+0.04,gaze_aversion,high,74.47
+62.95,head_pose_deviation,high,11.56

@@ -1,0 +1,7 @@
+session_id=20260408_115805_imported
+start_time=2026-04-08T11:59:20.867982
+end_time=2026-04-08T11:59:20.867993
+total_seconds=145.47
+total_frames=4364
+resolution=1080x1920
+fps=29.998281491665235
