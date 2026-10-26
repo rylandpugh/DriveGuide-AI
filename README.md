@@ -1,4 +1,4 @@
-# DriveGuide AI 🚗
+# DriveGuide AI 
 
 An AI-powered dashboard camera system that detects driver distraction, drowsiness, and phone usage in real-time using computer vision.
 
@@ -13,20 +13,20 @@ Distracted driving is a leading cause of preventable car crashes:
 
 DriveGuide AI uses a simple dashboard-mounted webcam and machine learning to monitor driver attention in real-time. It detects:
 
-✅ **Head Position** - Alerts when driver turns head away from road  
-✅ **Eye Gaze** - Detects when eyes look sideways (not at road)  
-✅ **Drowsiness** - Identifies prolonged eye closure  
-✅ **Phone Usage** - Detects hands/objects near face  
+**Head Position** - Alerts when driver turns head away from road  
+**Eye Gaze** - Detects when eyes look sideways (not at road)  
+**Drowsiness** - Identifies prolonged eye closure  
+**Phone Usage** - Detects hands/objects near face  
 
 When distraction is detected, the system provides **immediate visual and text alerts** to the driver.
 
 ## Features
 
-- 🎥 Real-time face and eye detection
-- 🚨 Color-coded alerts (Green/Orange/Red)
-- 💾 Runs entirely locally (no cloud/privacy issues)
-- ⚡ Fast performance (30+ FPS)
-- 📊 Simple, clear visual feedback
+- Real-time face and eye detection
+- Color-coded alerts (Green/Orange/Red)
+- Runs entirely locally (no cloud/privacy issues)
+- Fast performance (30+ FPS)
+- Simple, clear visual feedback
 
 ## Installation
 
@@ -111,13 +111,13 @@ Alert Generation
 
 ## Project Development
 
-### What Went Well ✅
+### What Went Well
 - Face detection works reliably across lighting conditions
 - Real-time performance is solid (30+ FPS)
 - Alert system is intuitive and easy to understand
 - Code is modular and readable
 
-### Challenges & Solutions 🔧
+### Challenges & Solutions
 
 | Challenge | Solution |
 |-----------|----------|
@@ -126,13 +126,13 @@ Alert Generation
 | False phone alerts | Implemented overlap detection instead of hand tracking |
 | MediaPipe library conflicts | Switched to simpler OpenCV cascade classifiers |
 
-### What I Learned 💡
+### What I Learned
 1. **Iteration is key** - First version didn't work; refactoring made all the difference
 2. **Debugging is normal** - Spent more time fixing than coding
 3. **Simple solutions win** - Complex ML models weren't needed; classic CV worked better
 4. **Environment setup matters** - More time on setup than expected for a HS project
 
-## Future Improvements 🚀
+## Future Improvements
 
 - [ ] **Data Logging** - Save distraction events with timestamps
 - [ ] **Dashboard UI** - Historical data visualization
@@ -174,7 +174,7 @@ MIT License - Feel free to use, modify, and share!
 **School:** Sacred Heart Cathedral  
 **Program:** Inquiry & Innovation (i2)  
 **Start Date:** Spring 2026  
-**Status:** Working Prototype ✅
+**Status:** Working Prototype
 
 ---
 
@@ -182,4 +182,4 @@ MIT License - Feel free to use, modify, and share!
 
 Found a bug? Have an improvement idea? Open an issue on GitHub!
 
-**Happy coding and stay safe on the roads! 🚗💙**
+**Happy coding and stay safe on the roads!*
